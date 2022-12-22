@@ -8,6 +8,10 @@ export default function Chart() {
 
   useEffect(() => {
     showDailyData();
+    const interval = setInterval(() => {
+      showDailyData();
+    }, 10000);
+    return () => clearInterval(interval);
   }, []);
 
   const showDailyData = async () => {
@@ -80,6 +84,7 @@ export default function Chart() {
               <div className="col-md-12">
                 <div className="card my-3">
                   <div className="card-body">
+                    {/* <pre>{JSON.stringify(dailyData, null, 2)}</pre> */}
                     <div className="card-title">
                       <h5 className="font-weight-bold text-center text-uppercase">
                         Environmental Data Chart For Tamale

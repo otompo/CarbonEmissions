@@ -122,6 +122,14 @@
   .header .navbar img {    
     margin-right: 40px;
   }
+
+  .header .nav-menu { 
+     margin-top: -19px;
+  }
+
+  .header .nav-menu a {   
+    border-bottom: none !important;
+}
 }
 
 
@@ -151,7 +159,6 @@
     z-index: 999;
     text-align: center;
     transition: 0.3s;
-    
   }
 
   .nav-menu.active {
