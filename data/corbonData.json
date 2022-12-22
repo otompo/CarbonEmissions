@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "locationId": "dangjinsupercharger",
+    "name": "Damongo",
+    "address": {
+      "state": "48",
+      "zip": null,
+      "countryId": 233,
+      "country": "Ghana",
+      "regionId": 102
+    },
+    "region": "Savannah Region",
+    "gps": {
+      "latitude":9.0791727,
+      "longitude": -1.8158241
+    },
+    "emission": 19.4
+  },
+  {
+    "id": 2,
+    "locationId": "dangjinsupercharger",
+    "name": "Nalerigu",
+    "address": {
+      "state": "48",
+      "zip": null,
+      "countryId": 233,
+      "country": "Ghana",
+      "regionId": 102
+    },
+    "region": "North East Region",
+    "gps": {
+      "latitude":10.3542288,
+      "longitude": -0.7867125
+    },
+    "emission": 18.4
+  },
+  {
+    "id": 3,
+    "locationId": "dangjinsupercharger",
+    "name": "Tamale",
+    "address": {
+      "state": "48",
+      "zip": null,
+      "countryId": 233,
+      "country": "Ghana",
+      "regionId": 102
+    },
+    "region": "Northern Region",
+    "gps": {
+      "latitude": 9.4100005,
+      "longitude": -0.3701882
+    },
+    "emission": 29.4
+  },
+  {
+    "id": 4,
+    "locationId": "dangjinsupercharger",
+    "name": "Bolgatanga",
+    "address": {
+      "state": "48",
+      "zip": null,
+      "countryId": 233,
+      "country": "Ghana",
+      "regionId": 102
+    },
+    "region": "Upper East Region",
+    "gps": {
+      "latitude": 10.7838259,
+      "longitude": -0.8478789
+    },
+    "emission": 28.5
+  },
+  {
+    "id": 5,
+    "locationId": "dangjinsupercharger",
+    "name": "Wa",
+    "address": {
+      "state": "48",
+      "zip": null,
+      "countryId": 233,
+      "country": "Ghana",
+      "regionId": 102
+    },
+    "region": "Upper West Region",
+    "gps": {
+      "latitude": 10.0621346,
+      "longitude": -2.5046634
+    },
+    "emission": 25.4
+  }
+]
